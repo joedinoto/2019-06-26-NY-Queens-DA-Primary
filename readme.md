@@ -1,13 +1,17 @@
+Roughly 89% of active Democrats in Queens, NY did not vote in the June 2019 primary election which elected Tiffany Cabán as NY District Attorney for Queens. This means only 11% of all registered Democrats in Queens voted and less than 5% of all active Democrats in Queens selected the winner of the race. 
+
+editorial: The reason for creating the diagram is to instill hope in those who feel their *"vote doesn't count"*. Note that those who did not vote were the largest block by far. They had the power to swing the election in any direction they pleased. Please [register to vote in your state's primary election or caucus](https://www.usa.gov/register-to-vote), research the candidates, and then get out and vote on primary election (or caucus) day. 
+
 Image: 
 
-![alt text](https://github.com/joedinoto/2019-06-26-NY-Queens-DA-Primary/blob/master/NY%20DA.png)
+![sankey diagram](https://github.com/joedinoto/2019-06-26-NY-Queens-DA-Primary/blob/master/NY%20DA.png)
 
 Data sources: 
 
 https://www.elections.ny.gov/EnrollmentCounty.html
 https://www.nytimes.com/interactive/2019/06/25/us/elections/results-queens-district-attorney-primary-election.html
 
-Code: 
+Code for image. Made with http://sankeymatic.com/build/
 
 ```
 ' Type a list of Flows, like this:
