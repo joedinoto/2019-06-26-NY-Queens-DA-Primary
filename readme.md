@@ -1,6 +1,10 @@
+# Voter Turnout is critical 
+
+### The "did not vote" block has the power to swing elections.
+
 Roughly 89% of active Democrats in Queens, NY did not vote in the June 2019 primary election which elected Tiffany Cabán as NY District Attorney for Queens. This means only 11% of all registered Democrats in Queens voted and less than 5% of all active Democrats in Queens selected the winner of the race. 
 
-editorial: The reason for creating the diagram is to instill hope in those who feel their *"vote doesn't count"*. Note that those who did not vote were the largest block by far. They had the power to swing the election in any direction they pleased. Please [register to vote in your state's primary election or caucus](https://www.usa.gov/register-to-vote), research the candidates, and then get out and vote on primary election (or caucus) day. 
+*editorial* The reason I created the diagram below is to instill hope in those who feel their *"vote doesn't count"*. Note that those who did not vote were the largest block by far. They had the power to swing the election in any direction they pleased. Please [register to vote in your state's primary election or caucus](https://www.usa.gov/register-to-vote), research the candidates, and then get out and vote on primary election (or caucus) day. 
 
 Image: 
 
